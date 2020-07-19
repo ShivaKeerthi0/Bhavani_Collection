@@ -1,10 +1,5 @@
 package com.maven.Collections;
-
-/**
- * Hello world!
- *
- */
-public class App 
+public class First 
 {
     public static void main( String[] args )
     {
