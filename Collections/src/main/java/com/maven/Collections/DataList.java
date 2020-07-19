@@ -1,7 +1,5 @@
 package com.maven.Collections;
 import java.util.Arrays;
-
-
 public class DataList<E> 
 {
     
